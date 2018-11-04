@@ -1,3 +1,5 @@
 Red
 Green
 Yellow
+Blue
+Pink
